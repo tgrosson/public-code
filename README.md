@@ -1,5 +1,5 @@
 # FatCR
-Codes used for cosmic ray analysis in "Fat Cosmic Ray Tracks in CCDS".
+Codes used for cosmic ray analysis in "Fat Cosmic Ray Tracks in CCDS". Images are not included in this repository; they can be found on e.g. NCSA.
 
 
 <b>CRAnalysis.ipynb</b>: Code for measuring cosmic ray tracks. Takes a directory of .fits files each containing one cosmic ray, measures each one's properties, and eventually saves each width, dE/dx, and height for plotting.
