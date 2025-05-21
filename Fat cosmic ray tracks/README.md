@@ -1,6 +1,6 @@
 # Fat cosmic ray tracks
 
-Grosson, T.; et al. "Fat cosmic ray tracks in charge-coupled devices." <i>JATIS</i> <b>9</b> 028006. June 2023. DOI: 10.1117/1.JATIS.9.2.028006[https://doi.org/10.1117/1.jatis.9.2.028006].
+Grosson, T.; et al. "Fat cosmic ray tracks in charge-coupled devices." <i>JATIS</i> <b>9</b> 028006. June 2023. DOI: [10.1117/1.JATIS.9.2.028006](https://doi.org/10.1117/1.jatis.9.2.028006).
 
 Codes used for cosmic ray analysis. Images are not included in this repository; they can be found on e.g. NCSA.
 
